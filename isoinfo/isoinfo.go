@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mogaika/udf"
+	"github.com/asscore2/udf"
 )
 
 func printDir(spaces string, files []udf.File) {
